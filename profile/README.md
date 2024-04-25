@@ -7,7 +7,7 @@
 <a href="https://twitter.com/VGG_Design"><img src="https://img.shields.io/twitter/follow/VGG_Design?style=social" alt="youtube" /></a>
 <a href="https://www.youtube.com/channel/UCAZz__n1fBlmPoHVI1avpOg"><img src="https://img.shields.io/youtube/channel/subscribers/UCAZz__n1fBlmPoHVI1avpOg?label=%40VeryGoodGraphics&style=social" alt="youtube"></a>
 
-VeryGoodGraphics (VGG) is an **embeddable** cross-platform UI development framework that advocates the **Design-as-Code** concept.
+VeryGoodGraphics (VGG) is an **embeddable** cross-platform UI development framework that advocates the **Design-as-Code** paradigm.
 
 The primary objective of VGG is to empower developers to code directly  within design drafts, such as those in Figma, Sketch, Adobe, or any  other design formats, and seamlessly integrate the programmed files as  functional UI elements into existing applications.
 
