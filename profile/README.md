@@ -11,9 +11,9 @@ VeryGoodGraphics (VGG) is an **embeddable** cross-platform UI development framew
 
 The Design-as-Code paradigm enables developers to leverage design drafts as the starting point for UI development, treating them as a type of vector graphics resource.
 
-And VGG facilitates effortless integration of programmed designs or prototypes into existing applications through its capabilities in graphics rendering and interaction.
+And VGG facilitates effortless integration of programmed designs or prototypes into applications by providing VGG containers for various platforms and frameworks.
 
-It currently consists of three main components:
+When we discuss VGG, it may refer to any of the following VGG components within the VGG framework:
 - [**VGG Specs**](https://docs.verygoodgraphics.com/specs/overview) is an open format for describing vector graphics and UI.
 - [**VGG Runtime**](https://github.com/verygoodgraphics/vgg_runtime) is a C++ implementation of VGG Specs with cross-platform rendering and scripting capabilities.
 - [**VGG Containers**](https://docs.verygoodgraphics.com/containers/overview) is a set of thin-wrappers and adapters of VGG Runtime for various platforms and frameworks, that provide high-level APIs for developer users.
