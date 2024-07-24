@@ -16,7 +16,7 @@ And VGG facilitates effortless integration of interactive designs or prototypes 
 
 When we discuss VGG, it may refer to any of the following:
 - [**VGG Specs**](https://docs.verygoodgraphics.com/specs/overview) is an open format for describing vector graphics and UI.
-- [**VGG Runtime**](https://github.com/verygoodgraphics/vgg_runtime) is a C++ implementation of VGG Specs with cross-platform rendering and scripting capabilities.
+- [**VGG Runtime**](https://github.com/verygoodgraphics/vgg_runtime) is a C++ implementation of VGG Specs with cross-platform vector graphics and user interfaces.
 - [**VGG Containers**](https://docs.verygoodgraphics.com/containers/overview) is a set of thin-wrappers and adapters of VGG Runtime for various platforms and frameworks, that provide high-level APIs for developer users.
 
 VGG is still at an early stage. Please join in VGG community and help us build it together! You can start from here:
